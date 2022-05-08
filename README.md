@@ -1,1 +1,1 @@
-# ankith-prjrcts
+# ankith-projects
